@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Hi, I’m Nick a Full Stack PHP Software Developer
+- 👀 I’m interested in Latest Tech Stack like React and Vue Js
+- 🌱 I’m currently learning React and VueJs
+- 📫 You can reach me via email: nick022190@gmail.com
+ 
 
 <!--
 **nick0221/nick0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
