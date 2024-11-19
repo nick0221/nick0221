@@ -1,4 +1,4 @@
-## Hi there 👋 Hi, I’m Nick a Full Stack PHP Software Developer
+## Hi there👋,Nick here a Full Stack PHP Software Developer
 - 👀 I’m interested in Latest Tech Stack like React and Vue Js
 - 🌱 I’m currently learning React and VueJs
 - 📫 You can reach me via email: nick022190@gmail.com
