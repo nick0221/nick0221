@@ -1,10 +1,9 @@
 <!-- Wavy Header Background -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nick0221/nick0221/main/assets/header-wave.svg" alt="Wave background" width="100%" />
-<h1 align="center">Hey there 👋, I'm Nick</h1>
-
 </p>
 
+<h1 align="center">Hey there 👋, I'm Nick</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?size=35&weight=900&color=58A3F7&vCenter=true&lines=Full+Stack+Web+Developer;Backend+Developer;SEO+Expert" alt="Typing SVG" />
@@ -13,7 +12,7 @@
 <h3 align="center">A Full Stack PHP Developer passionate about building modern web applications</h3>
 
 <p align="center">
-  <a href="https://portfolio.digitechproject.com" target="_blank">
+  <a href="https://nickdevs.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="mailto:nick022190@gmail.com">
