@@ -9,6 +9,7 @@
   <img 
     src="https://readme-typing-svg.demolab.com/?size=25&pause=2000&weight=900&color=58A3F7&vCenter=true&lines=Full+Stack+Web+Developer;Backend+Developer;SEO+Expert" 
     alt="Typing SVG"
+    width="100%"
   />
 </p>
 
