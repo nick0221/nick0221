@@ -1,6 +1,6 @@
 <!-- Wavy Header Background -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nick0221/nick0221/tree/main/assets/header-wave.svg" alt="wave header" width="100%" />
+  <img src="https://raw.githubusercontent.com/nick0221/nick0221/main/assets/header-wave.svg" alt="wave header" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Nick</h1>
