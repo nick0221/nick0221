@@ -10,7 +10,7 @@
     src="https://readme-typing-svg.demolab.com/?size=15&pause=2000&weight=900&color=58A3F7&vCenter=true&center=true&lines=Full+Stack+Web+Developer;Backend+Developer;SEO+Expert" 
     alt="Typing SVG"
     width="100%"
-  />qwe
+  />
 </p>
 
 <h3 align="center">A Full Stack PHP Developer passionate about building scalable and modern web applications</h3>
