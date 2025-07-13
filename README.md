@@ -1,12 +1,13 @@
 <!-- Wavy Header Background -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nick0221/nick0221/main/assets/header-wave.svg" alt="Wave background" width="100%" />
-</p>
-
 <h1 align="center">Hey there 👋, I'm Nick</h1>
 
+</p>
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?size=25&weight=900&color=58A3F7&vCenter=true&lines=Full+Stack+Web+Developer;Backend+Developer;SEO+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?size=35&weight=900&color=58A3F7&vCenter=true&lines=Full+Stack+Web+Developer;Backend+Developer;SEO+Expert" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A Full Stack PHP Developer passionate about building modern web applications</h3>
