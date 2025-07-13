@@ -79,17 +79,7 @@
 </p>
 
 ---
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nick0221&show_icons=true&theme=tokyonight&hide_title=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nick0221&theme=tokyonight" />
-</p>
-
----
+ 
 
 ### 🏆 GitHub Trophies
 
