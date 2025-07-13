@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&perline=12&i=php,laravel,react,vue,tailwind,typescript,javascript,nodejs,express,mysql,mongodb,sqlite,bootstrap,html,css,git,docker,vite,materialui,alpinejs,vercel,vscode,phpstorm,postman,ubuntu,windows,npm,linux,jquery" />
+    <img src="https://skillicons.dev/icons?&perline=13&i=php,laravel,react,vue,tailwind,typescript,javascript,nodejs,express,mysql,mongodb,sqlite,bootstrap,html,css,git,docker,vite,materialui,alpinejs,vercel,vscode,phpstorm,postman,ubuntu,windows,npm,linux,jquery" />
   </a>
 </p>
 
