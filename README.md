@@ -2,39 +2,45 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nick0221/nick0221/main/assets/header-wave.svg" alt="Wave background" width="100%" />
 </p>
- 
+
 <h1 align="center">Hey there 👋, I'm Nick</h1>
 
-<h3 align="center">A Full Stack PHP Developer passionate about building modern web applications</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?size=25&pause=2000&weight=900&color=58A3F7&vCenter=true&lines=Full+Stack+Web+Developer;Backend+Developer;SEO+Expert" 
+    alt="Typing SVG"
+  />
+</p>
+
+<h3 align="center">A Full Stack PHP Developer passionate about building scalable and modern web applications</h3>
 
 <p align="center">
   <a href="https://nickdevs.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="mailto:nick022190@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/nickzworld" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://www.facebook.com/moonrivers.nick" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Visit-blue?style=flat&logo=facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook" />
   </a>
 </p>
-
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack PHP Developer with 8+ years of experience  
-- 🌱 Currently diving deeper into **React**, **Vue.js**, and **Node.js**  
-- 🛠️ Skilled in Laravel, Tailwind CSS, MySQL, MongoDB, and more  
-- 🚀 Passionate about building clean, efficient, and user-friendly applications  
-- 📬 Reach me at: **nick022190@gmail.com**  
+- 💻 Full Stack PHP Developer with **8+ years** of professional experience  
+- 🧠 Exploring modern stacks like **React**, **Vue**, and **Node.js**  
+- 🛠️ Expert in **Laravel**, **MySQL**, **MongoDB**, **Tailwind CSS**, and more  
+- 🚀 Passionate about clean code, UI/UX, performance & maintainability  
+- 📬 Email: **nick022190@gmail.com**
 
-> ⚡ **I'm currently open for freelance projects, collaborations, or contract work!**  
-> 👉 If you have something in mind, feel free to [email me](mailto:nick022190@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nickzworld)
+> 💼 **Open to freelance opportunities, part-time contracts, or remote collaborations!**  
+> 👉 Reach out via [Email](mailto:nick022190@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nickzworld)
 
 ---
 
@@ -51,16 +57,16 @@
 ### 📌 Featured Projects
 
 #### 💼 [Portfolio Website](https://portfolio.digitechproject.com)  
-A sleek, mobile-first developer portfolio built with React, Tailwind CSS, and HeroUI to showcase skills and projects.
+📌 React + Tailwind CSS + HeroUI portfolio with responsive design, animations, and modern project display.
 
 #### 🛒 [UrbanKix – Shoe Ordering System](https://urbankix.vercel.app)  
-A Laravel + React e-commerce platform with user authentication, cart system, order tracking, and admin management tools.
+🛍️ Laravel + React-based e-commerce app with user auth, cart, checkout, and admin dashboard.
 
 #### 🏫 School Management Information System (SMIS)  
-An internal Laravel + FilamentPHP application for managing enrollments, student records, document verification, and tuition payments. Backend powered by MongoDB.
+📚 Laravel + FilamentPHP admin system for managing student records, enrollment, and payments. Backend optimized with MongoDB.
 
 #### 📝 PixelDiary (Coming Soon)  
-A private journal and memory timeline app using Node.js + MongoDB backend, with secure Google login and rich UI via React.
+🧠 Secure journaling platform using Google login, Node.js backend, and React frontend. Built for speed and privacy.
 
 ---
 
@@ -76,10 +82,10 @@ A private journal and memory timeline app using Node.js + MongoDB backend, with 
 
 ### 🤝 Let's Connect
 
-- 🔗 [Portfolio](https://nickdevs.vercel.app)  
+- 🌐 [Portfolio](https://nickdevs.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nickzworld)  
--  [Facebook](https://www.facebook.com/moonrivers.nick)  
-- 📬 Email: **nick022190@gmail.com**
+- 👤 [Facebook](https://www.facebook.com/moonrivers.nick)  
+- 📧 Email: **nick022190@gmail.com**
 
 ---
 
