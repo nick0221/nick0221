@@ -2,16 +2,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nick0221/nick0221/main/assets/header-wave.svg" alt="Wave background" width="100%" />
 </p>
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?size=25&pause=2000&weight=900&color=58A3F7&vCenter=true&lines=Full+Stack+Web+Developer;Backend+Developer;SEO+Expert" 
-    alt="Typing SVG"
-  />
-</p>
-
+ 
 <h1 align="center">Hey there 👋, I'm Nick</h1>
-
-
 
 <h3 align="center">A Full Stack PHP Developer passionate about building modern web applications</h3>
 
@@ -31,11 +23,14 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack PHP Developer with 8+ years of experience
-- 🌱 Currently diving deeper into **React**, **Vue.js**, and **Node.js**
-- 🛠️ Skilled in Laravel, Tailwind CSS, MySQL, MongoDB, and more
-- 🚀 Passionate about building clean, efficient, and user-friendly applications
-- 📬 Reach me at: **nick022190@gmail.com**
+- 💻 Full Stack PHP Developer with 8+ years of experience  
+- 🌱 Currently diving deeper into **React**, **Vue.js**, and **Node.js**  
+- 🛠️ Skilled in Laravel, Tailwind CSS, MySQL, MongoDB, and more  
+- 🚀 Passionate about building clean, efficient, and user-friendly applications  
+- 📬 Reach me at: **nick022190@gmail.com**  
+
+> ⚡ **I'm currently open for freelance projects, collaborations, or contract work!**  
+> 👉 If you have something in mind, feel free to [email me](mailto:nick022190@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nickzworld)
 
 ---
 
@@ -51,16 +46,16 @@
 
 ### 📌 Featured Projects
 
-#### 💼 [Portfolio Website](https://portfolio.digitechproject.com)
+#### 💼 [Portfolio Website](https://portfolio.digitechproject.com)  
 A sleek, mobile-first developer portfolio built with React, Tailwind CSS, and HeroUI to showcase skills and projects.
 
-#### 🛒 [UrbanKix – Shoe Ordering System](https://urbankix.vercel.app)
+#### 🛒 [UrbanKix – Shoe Ordering System](https://urbankix.vercel.app)  
 A Laravel + React e-commerce platform with user authentication, cart system, order tracking, and admin management tools.
 
-#### 🏫 School Management Information System (SMIS)
+#### 🏫 School Management Information System (SMIS)  
 An internal Laravel + FilamentPHP application for managing enrollments, student records, document verification, and tuition payments. Backend powered by MongoDB.
 
-#### 📝 PixelDiary (Coming Soon)
+#### 📝 PixelDiary (Coming Soon)  
 A private journal and memory timeline app using Node.js + MongoDB backend, with secure Google login and rich UI via React.
 
 ---
@@ -77,8 +72,8 @@ A private journal and memory timeline app using Node.js + MongoDB backend, with 
 
 ### 🤝 Let's Connect
 
-- 🔗 [Portfolio](https://nickdevs.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nickzworld)
+- 🔗 [Portfolio](https://nickdevs.vercel.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nickzworld)  
 - 📬 Email: **nick022190@gmail.com**
 
 ---
