@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,tailwind,laravel,php,mysql,sqlite,mongodb,livewire,alpinejs,react,typescript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,tailwind,laravel,php,mysql,sqlite,mongodb,alpinejs,react,typescript,nodejs,materialui,express,docker,boostrap,vite" />
   </a>
 </p>
