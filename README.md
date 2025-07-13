@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/nickzworld" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://www.facebook.com/nickzworld" target="_blank">
+  <a href="https://www.facebook.com/moonrivers.nick" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook" />
   </a>
 </p>
