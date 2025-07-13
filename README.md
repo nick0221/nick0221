@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://www.facebook.com/moonrivers.nick" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Visit-blue?style=flat&logo=facebook" />
   </a>
 </p>
 
