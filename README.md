@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Nick</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?weight=600&color=58A3F7&vCenter=true&lines=Full+Stack+Web+Developer;Backend+Developer;SEO+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?weight=600&color=58A3F7&center=true&vCenter=true&lines=Full+Stack+Web+developer;Backend+Developer;SEO+Expert" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A Full Stack PHP Developer passionate about building modern web applications</h3>
