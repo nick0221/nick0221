@@ -1,12 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Nick</h1>
-<h3 align="center">A Full Stack PHP Developer passionate about building dynamic web apps</h3>
+<h1 align="center">Hey there 👋, I'm Nick</h1>
+<h3 align="center">A Full Stack PHP Developer passionate about building modern web applications</h3>
 
 <p align="center">
   <a href="https://portfolio.digitechproject.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Now-blue?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="mailto:nick022190@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nickzworld" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
 </p>
 
@@ -14,11 +17,11 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Full Stack PHP Developer with 8+ years of experience  
-- 🌱 Currently exploring **React**, **Vue**, and **Node.js**
-- 🛠️ Skilled in Laravel, MySQL, Tailwind CSS, and more
-- 🚀 Focused on building modern, fast, and user-friendly web applications
-- 📫 Reach me at: **nick022190@gmail.com**
+- 💻 Full Stack PHP Developer with 8+ years of experience
+- 🌱 Currently diving deeper into **React**, **Vue.js**, and **Node.js**
+- 🛠️ Skilled in Laravel, Tailwind CSS, MySQL, MongoDB, and more
+- 🚀 Passionate about building clean, efficient, and user-friendly applications
+- 📬 Reach me at: **nick022190@gmail.com**
 
 ---
 
@@ -26,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,tailwind,laravel,php,mysql,sqlite,mongodb,alpinejs,react,typescript,nodejs,materialui,express,docker,bootstrap,vite" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,react,vue,tailwind,typescript,javascript,nodejs,express,mysql,mongodb,sqlite,bootstrap,html,css,git,docker,vite,materialui,alpinejs" />
   </a>
 </p>
 
@@ -35,13 +38,16 @@
 ### 📌 Featured Projects
 
 #### 💼 [Portfolio Website](https://portfolio.digitechproject.com)
-A personal portfolio built with React, Tailwind CSS, and HeroUI to showcase my experience, skills, and projects.
+A sleek, mobile-first developer portfolio built with React, Tailwind CSS, and HeroUI to showcase skills and projects.
 
-#### 🛒 Shoe Ordering System (In Progress)
-A Laravel + React-based system with authentication, shopping cart, admin panel, and secure payment integration.
+#### 🛒 [UrbanKix – Shoe Ordering System](https://urbankix.vercel.app)
+A Laravel + React e-commerce platform with user authentication, cart system, order tracking, and admin management tools.
 
 #### 🏫 School Management Information System (SMIS)
-Built with Laravel & FilamentPHP for managing students, enrollments, payments, and faculty—used MongoDB for performance.
+An internal Laravel + FilamentPHP application for managing enrollments, student records, document verification, and tuition payments. Backend powered by MongoDB.
+
+#### 📝 PixelDiary (Coming Soon)
+A private journal and memory timeline app using Node.js + MongoDB backend, with secure Google login and rich UI via React.
 
 ---
 
@@ -57,8 +63,8 @@ Built with Laravel & FilamentPHP for managing students, enrollments, payments, a
 
 ### 🤝 Let's Connect
 
-- 💼 [Portfolio](https://portfolio.digitechproject.com)
-- 💬 [LinkedIn (optional link if available)]
+- 🔗 [Portfolio](https://portfolio.digitechproject.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nickzworld)
 - 📬 Email: **nick022190@gmail.com**
 
 ---
@@ -66,4 +72,3 @@ Built with Laravel & FilamentPHP for managing students, enrollments, payments, a
 <!--
 **nick0221/nick0221** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
