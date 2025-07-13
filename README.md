@@ -17,7 +17,11 @@
   <a href="https://www.linkedin.com/in/nickzworld" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
+  <a href="https://www.facebook.com/nickzworld" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook" />
+  </a>
 </p>
+
 
 ---
 
@@ -74,7 +78,7 @@ A private journal and memory timeline app using Node.js + MongoDB backend, with 
 
 - 🔗 [Portfolio](https://nickdevs.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nickzworld)  
-- 💼 [Facebook](https://www.facebook.com/moonrivers.nick)  
+-  [Facebook](https://www.facebook.com/moonrivers.nick)  
 - 📬 Email: **nick022190@gmail.com**
 
 ---
