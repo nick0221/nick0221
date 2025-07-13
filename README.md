@@ -57,7 +57,7 @@
 
 ### 📌 Featured Projects
 
-#### 💼 [Portfolio Website](https://portfolio.digitechproject.com)  
+#### 💼 [Portfolio Website](https://nickdevs.vercel.app)  
 📌 React + Tailwind CSS + HeroUI portfolio with responsive design, animations, and modern project display.
 
 #### 🛒 [UrbanKix – Shoe Ordering System](https://urbankix.vercel.app)  
