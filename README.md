@@ -74,6 +74,7 @@ A private journal and memory timeline app using Node.js + MongoDB backend, with 
 
 - 🔗 [Portfolio](https://nickdevs.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nickzworld)  
+- 💼 [Facebook](https://www.facebook.com/moonrivers.nick)  
 - 📬 Email: **nick022190@gmail.com**
 
 ---
