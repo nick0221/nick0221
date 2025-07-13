@@ -77,7 +77,7 @@ A private journal and memory timeline app using Node.js + MongoDB backend, with 
 
 ### 🤝 Let's Connect
 
-- 🔗 [Portfolio](https://portfolio.digitechproject.com)
+- 🔗 [Portfolio](https://nickdevs.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nickzworld)
 - 📬 Email: **nick022190@gmail.com**
 
