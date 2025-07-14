@@ -52,26 +52,84 @@
   </a>
 </p>
 
-#### ⚙️ Categorized Skills
-
-> **Frontend**
-- React, Vue.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript, TypeScript, jQuery, Alpine.js, Vite, Material UI
-
-> **Backend**
-- PHP, Laravel, Node.js, Express.js, REST API development
-
-> **Database**
-- MySQL, MongoDB, SQLite
-
-> **Tools & DevOps**
-- Git, Docker, Postman, NPM, Vercel, Linux, Ubuntu, Windows
-
-> **IDEs & Editors**
-- VS Code, PhpStorm
-
-> **Other**
-- SEO Optimization, API Integration, Deployment, Web Performance, UI/UX Best Practices
-
+<table align="center">
+  <thead>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Database</th>
+      <th>DevOps / Tools</th>
+      <th>IDE / Editors</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>React</td>
+      <td>PHP</td>
+      <td>MySQL</td>
+      <td>Git</td>
+      <td>VS Code</td>
+      <td>SEO Optimization</td>
+    </tr>
+    <tr>
+      <td>Vue.js</td>
+      <td>Laravel</td>
+      <td>MongoDB</td>
+      <td>Docker</td>
+      <td>PhpStorm</td>
+      <td>API Integration</td>
+    </tr>
+    <tr>
+      <td>Tailwind CSS</td>
+      <td>Node.js</td>
+      <td>SQLite</td>
+      <td>Postman</td>
+      <td></td>
+      <td>Web Performance</td>
+    </tr>
+    <tr>
+      <td>Bootstrap</td>
+      <td>Express.js</td>
+      <td></td>
+      <td>NPM</td>
+      <td></td>
+      <td>UI/UX Best Practices</td>
+    </tr>
+    <tr>
+      <td>Material UI</td>
+      <td>REST API</td>
+      <td></td>
+      <td>Vercel</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>HTML5, CSS3</td>
+      <td></td>
+      <td></td>
+      <td>Linux / Ubuntu / Windows</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>JavaScript, TypeScript</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>jQuery, Alpine.js, Vite</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ### 📌 Featured Projects
