@@ -52,7 +52,6 @@
   </a>
 </p>
 
-### ⚙️ Categorized Skills
 
 > **Frontend**  
 > React, Vue.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript, TypeScript, jQuery, Alpine.js, Vite, Material UI
