@@ -44,7 +44,6 @@
 > 👉 Reach out via [Email](mailto:nick022190@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nickzworld)
 
 ---
-
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
@@ -52,6 +51,26 @@
     <img src="https://skillicons.dev/icons?&perline=13&i=php,laravel,react,vue,tailwind,typescript,javascript,nodejs,express,mysql,mongodb,sqlite,bootstrap,html,css,git,docker,vite,materialui,alpinejs,vercel,vscode,phpstorm,postman,ubuntu,windows,npm,linux,jquery" />
   </a>
 </p>
+
+#### ⚙️ Categorized Skills
+
+> **Frontend**
+- React, Vue.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript, TypeScript, jQuery, Alpine.js, Vite, Material UI
+
+> **Backend**
+- PHP, Laravel, Node.js, Express.js, REST API development
+
+> **Database**
+- MySQL, MongoDB, SQLite
+
+> **Tools & DevOps**
+- Git, Docker, Postman, NPM, Vercel, Linux, Ubuntu, Windows
+
+> **IDEs & Editors**
+- VS Code, PhpStorm
+
+> **Other**
+- SEO Optimization, API Integration, Deployment, Web Performance, UI/UX Best Practices
 
 ---
 
