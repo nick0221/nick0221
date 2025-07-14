@@ -54,23 +54,23 @@
 
 ### ⚙️ Categorized Skills
 
-> **Frontend**
-- React, Vue.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript, TypeScript, jQuery, Alpine.js, Vite, Material UI
+> **Frontend**  
+> React, Vue.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript, TypeScript, jQuery, Alpine.js, Vite, Material UI
 
-> **Backend**
-- PHP, Laravel, Node.js, Express.js, REST API development
+> **Backend**  
+> PHP, Laravel, Node.js, Express.js, REST API development
 
-> **Database**
-- MySQL, MongoDB, SQLite
+> **Database**  
+> MySQL, MongoDB, SQLite
 
-> **Tools & DevOps**
-- Git, Docker, Postman, NPM, Vercel, Linux, Ubuntu, Windows
+> **Tools & DevOps**  
+> Git, Docker, Postman, NPM, Vercel, Linux, Ubuntu, Windows
 
-> **IDEs & Editors**
-- VS Code, PhpStorm
+> **IDEs & Editors**  
+> VS Code, PhpStorm
 
-> **Other**
-- SEO Optimization, API Integration, Deployment, Web Performance, UI/UX Best Practices
+> **Other**  
+> SEO Optimization, API Integration, Deployment, Web Performance, UI/UX Best Practices
 
 ---
 
