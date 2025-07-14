@@ -68,12 +68,22 @@
       <td>
         • React<br/>
         • Vue.js<br/>
-        • Tailwind CSS
+        • Tailwind CSS<br/>
+        • Bootstrap<br/>
+        • Material UI<br/>
+        • HTML5 / CSS3<br/>
+        • JavaScript<br/>
+        • TypeScript<br/>
+        • jQuery<br/>
+        • Alpine.js<br/>
+        • Vite
       </td>
       <td>
         • PHP<br/>
         • Laravel<br/>
-        • Node.js
+        • Node.js<br/>
+        • Express.js<br/>
+        • REST API
       </td>
       <td>
         • MySQL<br/>
@@ -83,7 +93,10 @@
       <td>
         • Git<br/>
         • Docker<br/>
-        • Postman
+        • Postman<br/>
+        • NPM<br/>
+        • Vercel<br/>
+        • Linux / Ubuntu / Windows
       </td>
       <td>
         • VS Code<br/>
@@ -91,44 +104,10 @@
       </td>
       <td>
         • SEO Optimization<br/>
-        • API Integration
-      </td>
-    </tr>
-    <tr>
-      <td>
-        • Bootstrap<br/>
-        • Material UI<br/>
-        • HTML5 / CSS3
-      </td>
-      <td>
-        • Express.js<br/>
-        • REST API
-      </td>
-      <td></td>
-      <td>
-        • NPM<br/>
-        • Vercel<br/>
-        • Linux / Ubuntu / Windows
-      </td>
-      <td></td>
-      <td>
+        • API Integration<br/>
         • Web Performance<br/>
         • UI/UX Best Practices
       </td>
-    </tr>
-    <tr>
-      <td>
-        • JavaScript<br/>
-        • TypeScript<br/>
-        • jQuery<br/>
-        • Alpine.js<br/>
-        • Vite
-      </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
