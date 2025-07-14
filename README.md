@@ -52,7 +52,7 @@
   </a>
 </p>
 
-<table align="center">
+<table align="center" border="0>
   <thead>
     <tr>
       <th>Frontend</th>
