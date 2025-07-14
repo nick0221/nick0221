@@ -68,7 +68,7 @@
 > **IDEs & Editors**  
 > VS Code, PhpStorm
 
-> **Other**  
+> **Others**  
 > SEO Optimization, API Integration, Deployment, Web Performance, UI/UX Best Practices
 
 ---
