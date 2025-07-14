@@ -65,63 +65,65 @@
   </thead>
   <tbody>
     <tr>
-      <td>React</td>
-      <td>PHP</td>
-      <td>MySQL</td>
-      <td>Git</td>
-      <td>VS Code</td>
-      <td>SEO Optimization</td>
+      <td>
+        • React<br/>
+        • Vue.js<br/>
+        • Tailwind CSS
+      </td>
+      <td>
+        • PHP<br/>
+        • Laravel<br/>
+        • Node.js
+      </td>
+      <td>
+        • MySQL<br/>
+        • MongoDB<br/>
+        • SQLite
+      </td>
+      <td>
+        • Git<br/>
+        • Docker<br/>
+        • Postman
+      </td>
+      <td>
+        • VS Code<br/>
+        • PhpStorm
+      </td>
+      <td>
+        • SEO Optimization<br/>
+        • API Integration
+      </td>
     </tr>
     <tr>
-      <td>Vue.js</td>
-      <td>Laravel</td>
-      <td>MongoDB</td>
-      <td>Docker</td>
-      <td>PhpStorm</td>
-      <td>API Integration</td>
+      <td>
+        • Bootstrap<br/>
+        • Material UI<br/>
+        • HTML5 / CSS3
+      </td>
+      <td>
+        • Express.js<br/>
+        • REST API
+      </td>
+      <td></td>
+      <td>
+        • NPM<br/>
+        • Vercel<br/>
+        • Linux / Ubuntu / Windows
+      </td>
+      <td></td>
+      <td>
+        • Web Performance<br/>
+        • UI/UX Best Practices
+      </td>
     </tr>
     <tr>
-      <td>Tailwind CSS</td>
-      <td>Node.js</td>
-      <td>SQLite</td>
-      <td>Postman</td>
-      <td></td>
-      <td>Web Performance</td>
-    </tr>
-    <tr>
-      <td>Bootstrap</td>
-      <td>Express.js</td>
-      <td></td>
-      <td>NPM</td>
-      <td></td>
-      <td>UI/UX Best Practices</td>
-    </tr>
-    <tr>
-      <td>Material UI</td>
-      <td>REST API</td>
-      <td></td>
-      <td>Vercel</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HTML5, CSS3</td>
-      <td></td>
-      <td></td>
-      <td>Linux / Ubuntu / Windows</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>JavaScript, TypeScript</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>jQuery, Alpine.js, Vite</td>
+      <td>
+        • JavaScript<br/>
+        • TypeScript<br/>
+        • jQuery<br/>
+        • Alpine.js<br/>
+        • Vite
+      </td>
       <td></td>
       <td></td>
       <td></td>
@@ -130,6 +132,7 @@
     </tr>
   </tbody>
 </table>
+
 
 ---
 
