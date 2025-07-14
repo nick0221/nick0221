@@ -130,6 +130,7 @@
     </tr>
   </tbody>
 </table>
+
 ---
 
 ### 📌 Featured Projects
