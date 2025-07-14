@@ -35,7 +35,7 @@
 ### 👨‍💻 About Me
 
 - 💻 Full Stack PHP Developer with **8+ years** of professional experience  
-- 🧠 Exploring modern stacks like **React**, **Vue**, and **Node.js**  
+- 🧠 Currently diving deeper into **React**, **Typescript**, and **Node.js**  
 - 🛠️ Expert in **Laravel**, **MySQL**, **MongoDB**, **Tailwind CSS**, and more  
 - 🚀 Passionate about clean code, UI/UX, performance & maintainability  
 - 📬 Email: **nick022190@gmail.com**
