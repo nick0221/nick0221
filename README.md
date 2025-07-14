@@ -51,67 +51,25 @@
     <img src="https://skillicons.dev/icons?&perline=13&i=php,laravel,react,vue,tailwind,typescript,javascript,nodejs,express,mysql,mongodb,sqlite,bootstrap,html,css,git,docker,vite,materialui,alpinejs,vercel,vscode,phpstorm,postman,ubuntu,windows,npm,linux,jquery" />
   </a>
 </p>
+#### ⚙️ Categorized Skills
 
-<table align="center" >
-  <thead>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Database</th>
-      <th>DevOps / Tools</th>
-      <th>IDE / Editors</th>
-      <th>Other</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        • React<br/>
-        • Vue.js<br/>
-        • Tailwind CSS<br/>
-        • Bootstrap<br/>
-        • Material UI<br/>
-        • HTML5 / CSS3<br/>
-        • JavaScript<br/>
-        • TypeScript<br/>
-        • jQuery<br/>
-        • Alpine.js<br/>
-        • Vite
-      </td>
-      <td>
-        • PHP<br/>
-        • Laravel<br/>
-        • Node.js<br/>
-        • Express.js<br/>
-        • REST API
-      </td>
-      <td>
-        • MySQL<br/>
-        • MongoDB<br/>
-        • SQLite
-      </td>
-      <td>
-        • Git<br/>
-        • Docker<br/>
-        • Postman<br/>
-        • NPM<br/>
-        • Vercel<br/>
-        • Linux / Ubuntu / Windows
-      </td>
-      <td>
-        • VS Code<br/>
-        • PhpStorm
-      </td>
-      <td>
-        • SEO Optimization<br/>
-        • API Integration<br/>
-        • Web Performance<br/>
-        • UI/UX Best Practices
-      </td>
-    </tr>
-  </tbody>
-</table>
+> **Frontend**
+- React, Vue.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript, TypeScript, jQuery, Alpine.js, Vite, Material UI
 
+> **Backend**
+- PHP, Laravel, Node.js, Express.js, REST API development
+
+> **Database**
+- MySQL, MongoDB, SQLite
+
+> **Tools & DevOps**
+- Git, Docker, Postman, NPM, Vercel, Linux, Ubuntu, Windows
+
+> **IDEs & Editors**
+- VS Code, PhpStorm
+
+> **Other**
+- SEO Optimization, API Integration, Deployment, Web Performance, UI/UX Best Practices
 
 ---
 
