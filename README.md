@@ -83,11 +83,9 @@
  
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nick0221&theme=tokyonight&margin-w=10&no-bg=true" alt="GitHub Trophies" />
 </p>
-
 ---
 
 ### 🌱 GitHub Contribution Graph
