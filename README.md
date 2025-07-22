@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/nick0221/nick0221/main/assets/header-wave.svg" alt="Wave background" width="100%" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Nick</h1>
+<h1 align="center">Hey there 👋, Nick here!</h1>
 
 <p align="center">
   <img 
