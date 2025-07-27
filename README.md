@@ -82,7 +82,7 @@
 🛍️ Laravel + React-based e-commerce app with user auth, cart, checkout, and admin dashboard.
 
 #### 🏫 School Management Information System (SMIS)  
-📚 Laravel + FilamentPHP admin system for managing student records, enrollment, and payments. Backend optimized with MongoDB.
+📚 Laravel + FilamentPHP admin system for managing student records, enrollment, and payments. Backend optimized with MySQL.
 
 #### 📝 PixelDiary (Coming Soon)  
 🧠 Secure journaling platform using Google login, Node.js backend, and React frontend. Built for speed and privacy.
