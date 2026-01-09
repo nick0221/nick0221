@@ -86,20 +86,7 @@
 
 #### 📝 PixelDiary (Coming Soon)  
 🧠 Secure journaling platform using Google login, Node.js backend, and React frontend. Built for speed and privacy.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">   
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=nick0221&theme=tokyonight&hide_border=true&border_radius=6.1&short_numbers=true" alt="GitHub Streak" /> 
-</p>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nick0221&theme=tokyonight&hide_border=true&border_radius=6.1&short_numbers=true)](https://git.io/streak-stats)
----
- 
- 
+  
 
 ---
 
