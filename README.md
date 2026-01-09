@@ -95,6 +95,8 @@
    <img src="https://github-readme-streak-stats.herokuapp.com?user=nick0221&theme=tokyonight&hide_border=true&border_radius=6.1&short_numbers=true" alt="GitHub Streak" /> 
 </p>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nick0221&theme=tokyonight&hide_border=true&border_radius=6.1&short_numbers=true)](https://git.io/streak-stats)
 ---
  
  
