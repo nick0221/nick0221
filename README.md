@@ -88,13 +88,7 @@
 🧠 Secure journaling platform using Google login, Node.js backend, and React frontend. Built for speed and privacy.
   
 
----
-
-### 🌱 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nick0221&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+ 
 
 ---
 
